@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GulraizAijaz/TodoListWithReact/static/css/main.d4e9cc1a.css",
+    "main.js": "/GulraizAijaz/TodoListWithReact/static/js/main.b6efcfea.js",
+    "static/js/787.5a5c337f.chunk.js": "/GulraizAijaz/TodoListWithReact/static/js/787.5a5c337f.chunk.js",
+    "index.html": "/GulraizAijaz/TodoListWithReact/index.html",
+    "main.d4e9cc1a.css.map": "/GulraizAijaz/TodoListWithReact/static/css/main.d4e9cc1a.css.map",
+    "main.b6efcfea.js.map": "/GulraizAijaz/TodoListWithReact/static/js/main.b6efcfea.js.map",
+    "787.5a5c337f.chunk.js.map": "/GulraizAijaz/TodoListWithReact/static/js/787.5a5c337f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e9cc1a.css",
+    "static/js/main.b6efcfea.js"
+  ]
+}
